@@ -1,0 +1,4 @@
+assets/
+├─ icon.png      # 512x512 icon for your app
+├─ splash.png    # 1242x2436 splash screen (or any rectangle)
+├─ favicon.png   # small icon for web builds (optional)
